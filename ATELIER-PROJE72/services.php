@@ -1,0 +1,46 @@
+<?php include 'header.php'; ?>
+
+<main>
+    <div class="container">
+        <h2>Nos services</h2>
+        <div class="services-list">
+        <div class="service-card">
+            <img src="IMG/RESTO3.jpeg" alt="Restaurant Gastronomique"/>
+            <h3>Restaurant Gastronomique</h3>
+            <P>Profiter d'une cuisine raffinée</P>
+        </div>
+
+        <div class="service-card">
+            <img src="IMG/SPA2.jpeg" alt="Spa et Bien-etre"/>
+            <h3>Spa et Bien-etre</h3>
+            <p>Relaxez-vous avec nos soins exclusifs et profitez d'un moment de detente absolue</p>
+        </div>
+
+        <div class="service-card">
+            <img src="IMG/PISCINE5.jpeg" alt="Piscine"/>
+            <h3>Piscine Extérieure</h3>
+            <p>Détendez-vos dans notre piscine chauffée avec un cadre paisible et agréable</p>
+        </div>
+
+        <div class="service-card">
+            <img src="IMG/WIFI2.jpeg" alt="wifi gratuit"/>
+            <h3>Wi-Fi Gratuit</h3>
+            <p>Restez connecter grace à notre réseau Wi-fi Gratuit rapide et sécurisé dans tout l'hotel.</p>
+        </div>
+
+        <div class="service-card">
+            <img src="IMG/PARKING1.jpeg" alt="Parking sécurisé"/>
+            <h3>Parking Sécurisé</h3>
+            <P>Profitez d'un parking privé et sécurisé durant toute la durée de votre séjour.</P>
+        </div>
+
+        <div class="service-card">
+            <img src="IMG/CMBRE1.jpeg" alt="Service en chambre"/>
+            <h3>Services en Chambre</h3>
+            <p>Un service complet en chambre disponible 24/24 pour votre confort</p>
+        </div>
+    </div>
+    </div>
+</main>
+
+<?php include 'footer.php'; ?>
